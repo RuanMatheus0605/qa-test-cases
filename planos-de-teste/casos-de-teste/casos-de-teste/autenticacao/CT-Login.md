@@ -23,14 +23,14 @@ Pré-requisitos:
 Funcionalidade: Login de usuário no Book Cart
 
 Cenário: Login com credenciais válidas.
-- Dado que o usuário esteja na página de login do Book Cart
-- Quando o usuário preencher o campo Username com um usuário válido
+    - Dado que o usuário esteja na página de login do Book Cart
+    - Quando o usuário preencher o campo Username com um usuário válido
     - E o usuário preencher o campo Password com uma senha válida
     - E o usuário clicar no botão Login
     - Então o sistema deve autenticar o usuário com sucesso
     - E o usuário deve ser redirecionado para a página inicial
 
-  Cenário: Login com credenciais inválidas
+Cenário: Login com credenciais inválidas
     - Dado que o usuário esteja na página de login do Book Cart
     - Quando o usuário preencher o campo Username ou Password com dados inválidos
     - E o usuário clicar no botão Login
