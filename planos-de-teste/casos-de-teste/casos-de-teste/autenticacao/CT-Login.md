@@ -11,9 +11,9 @@ Botão Login.
 Caso de Teste – Login (Credenciais válidas e inválidas)
 
 Objetivo:
-Validar o comportamento da funcionalidade de login ao inserir credenciais válidas e inválidas, garantindo:
-Acesso correto do usuário autenticado;
-Exibição de mensagens de erro apropriadas em tentativas inválidas.
+- Validar o comportamento da funcionalidade de login ao inserir credenciais válidas e inválidas, garantindo:
+- Acesso correto do usuário autenticado;
+- Exibição de mensagens de erro apropriadas em tentativas inválidas.
 
 Pré-requisitos:
 Usuário com cadastro válido no site Book Cart;
