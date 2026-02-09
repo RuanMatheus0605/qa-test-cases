@@ -43,3 +43,9 @@ Cenário: Cadastro de usuário com dados inválidos ou campos obrigatórios não
 - E o usuário clicar no botão Register
 - Então o sistema não deve realizar o cadastro do usuário
 - E o sistema deve exibir mensagens de erro indicando os campos inválidos ou obrigatórios
+
+<img width="670" height="331" alt="image" src="https://github.com/user-attachments/assets/0532291e-0758-4d89-b61d-16438331762b" />
+
+<img width="670" height="592" alt="image" src="https://github.com/user-attachments/assets/d54edd8f-b975-4785-a911-f9cbebfc936e" />
+
+
